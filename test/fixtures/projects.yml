@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 
+  description: 
+  status: 
+  due_date: 2021-11-08 11:37:37
+
+two:
+  title: 
+  description: 
+  status: 
+  due_date: 2021-11-08 11:37:37
